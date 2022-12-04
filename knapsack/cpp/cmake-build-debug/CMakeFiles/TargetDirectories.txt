@@ -1,0 +1,3 @@
+/home/mars/projects/Coursera/discrete-optimization-coursera/knapsack/cpp/cmake-build-debug/CMakeFiles/cpp.dir
+/home/mars/projects/Coursera/discrete-optimization-coursera/knapsack/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mars/projects/Coursera/discrete-optimization-coursera/knapsack/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
